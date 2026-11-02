@@ -1,3 +1,4 @@
+git add README.md<<<<<<< HEAD
 # AI-Powered Customer Feedback Analysis and Management Platform
 
 **Course:** SOA Programming and Microservices (24SDCS03)
@@ -140,3 +141,6 @@ chart in `results/baseline_vs_proposed.png`.
 
 Python · Flask (REST microservices) · scikit-learn (TF-IDF + Logistic
 Regression) · SQLite · pandas · matplotlib · Docker / Docker Compose
+=======
+# KLH-CSE-2026-27-2420030380-FeedbackFlow-AI
+>>>>>>> ca1e367c9a6227d6e292327b15f9be78a019596d
