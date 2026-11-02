@@ -1,0 +1,301 @@
+feedback_id,customer_name,product,feedback_text,rating,sentiment,timestamp
+23,V. Nair,Loyalty Program,"Great experience with the Loyalty Program, very intuitive and reliable.",5,positive,2026-05-01
+25,L. Verma,Payment Gateway,The laptop runs smoothly and the display quality is excellent.,5,positive,2026-05-01
+84,P. Singh,Payment Gateway,"Very satisfied with the purchase, the service was fast and helpful.",5,positive,2026-05-01
+222,N. Iyer,Subscription Plan,The delivery was late and the product arrived damaged.,1,negative,2026-05-01
+230,T. Sharma,Loyalty Program,Delivery was on time and the product quality was great.,4,positive,2026-05-01
+187,V. Nair,Delivery Service,"The Delivery Service is slow and unreliable, I want a refund.",1,negative,2026-05-02
+31,K. Reddy,Customer Support,"I love using the Customer Support, it saved me so much time.",5,positive,2026-05-03
+120,J. Kumar,Checkout Flow,The product functions normally but the interface feels average.,3,neutral,2026-05-03
+276,K. Reddy,Checkout Flow,Delivery was on time and the product quality was great.,5,positive,2026-05-03
+270,L. Verma,Web Portal,"Really happy with the Web Portal, support team was helpful too.",4,positive,2026-05-04
+15,L. Verma,Mobile App,"The Mobile App is decent, but the design feels a bit outdated.",3,neutral,2026-05-05
+271,M. Ghosh,Delivery Service,"The Delivery Service has too many bugs, unusable most of the time.",1,negative,2026-05-05
+286,T. Sharma,Loyalty Program,"I am unhappy with the service, the product is defective and support is slow.",1,negative,2026-05-05
+61,D. Pillai,Mobile App,"Excellent Mobile App! Fast, clean, and easy to use.",5,positive,2026-05-06
+145,N. Iyer,Mobile App,There are so many bugs in my laptop and it is not working properly.,2,negative,2026-05-06
+282,D. Pillai,Web Portal,The delivery was late and the product arrived damaged.,1,negative,2026-05-06
+285,L. Verma,Mobile App,The battery life is excellent and the laptop performs really well.,4,positive,2026-05-06
+293,D. Pillai,Checkout Flow,"Really happy with the Checkout Flow, support team was helpful too.",5,positive,2026-05-06
+127,M. Ghosh,Payment Gateway,"Excellent Payment Gateway! Fast, clean, and easy to use.",4,positive,2026-05-07
+151,T. Sharma,Mobile App,The quality is very poor and the item is not worth the money.,1,negative,2026-05-07
+152,T. Sharma,Checkout Flow,The product functions normally but the interface feels average.,3,neutral,2026-05-07
+226,J. Kumar,Payment Gateway,"Worst experience ever with the Payment Gateway, switching to a competitor.",2,negative,2026-05-07
+266,B. Chatterjee,Customer Support,"The Customer Support has too many bugs, unusable most of the time.",1,negative,2026-05-07
+249,F. Joshi,Checkout Flow,The laptop runs smoothly and the display quality is excellent.,4,positive,2026-05-08
+9,S. Mehta,Delivery Service,The Delivery Service charged me twice and support was unhelpful.,2,negative,2026-05-09
+103,S. Mehta,Delivery Service,"Extremely poor performance from the Delivery Service, needs urgent fixing.",2,negative,2026-05-09
+167,K. Reddy,Checkout Flow,"Terrible support from the Checkout Flow, no one responded for days.",2,negative,2026-05-09
+205,B. Chatterjee,Loyalty Program,The laptop runs smoothly and the display quality is excellent.,4,positive,2026-05-09
+215,J. Kumar,Payment Gateway,"Very satisfied with the purchase, the service was fast and helpful.",5,positive,2026-05-09
+50,A. Rao,Subscription Plan,Impressed by how reliable the Subscription Plan has been over the past month.,5,positive,2026-05-10
+90,M. Ghosh,Subscription Plan,The product functions normally but the interface feels average.,3,neutral,2026-05-10
+239,P. Singh,Customer Support,The delivery was late and the product arrived damaged.,1,negative,2026-05-10
+245,M. Ghosh,Delivery Service,"It works, but I expected better quality for the price.",3,neutral,2026-05-10
+91,R. Das,Delivery Service,"Really happy with the Delivery Service, support team was helpful too.",5,positive,2026-05-11
+267,N. Iyer,Web Portal,"I'm disappointed with the Web Portal, it never works as advertised.",1,negative,2026-05-11
+3,T. Sharma,Mobile App,"The Mobile App works fine, nothing special but does the job.",3,neutral,2026-05-12
+19,S. Mehta,Payment Gateway,The laptop runs smoothly and the display quality is excellent.,5,positive,2026-05-12
+57,C. Menon,Subscription Plan,"The Subscription Plan works fine, nothing special but does the job.",3,neutral,2026-05-12
+144,K. Reddy,Delivery Service,There are so many bugs in my laptop and it is not working properly.,1,negative,2026-05-12
+168,C. Menon,Subscription Plan,"The Subscription Plan is decent, but the design feels a bit outdated.",3,neutral,2026-05-12
+196,D. Pillai,Checkout Flow,"The Checkout Flow exceeded my expectations, will recommend to friends.",5,positive,2026-05-13
+253,H. Bose,Delivery Service,"The Delivery Service is slow and unreliable, I want a refund.",1,negative,2026-05-13
+6,J. Kumar,Payment Gateway,"The Payment Gateway exceeded my expectations, will recommend to friends.",5,positive,2026-05-14
+128,A. Rao,Payment Gateway,The product functions normally but the interface feels average.,3,neutral,2026-05-14
+206,F. Joshi,Delivery Service,The laptop runs smoothly and the display quality is excellent.,5,positive,2026-05-14
+237,K. Reddy,Delivery Service,"The Delivery Service is slow and unreliable, I want a refund.",1,negative,2026-05-14
+69,V. Nair,Delivery Service,"The Delivery Service works fine, nothing special but does the job.",3,neutral,2026-05-15
+130,J. Kumar,Mobile App,"Excellent Mobile App! Fast, clean, and easy to use.",5,positive,2026-05-15
+150,H. Bose,Delivery Service,"Excellent Delivery Service! Fast, clean, and easy to use.",5,positive,2026-05-15
+155,F. Joshi,Web Portal,"The Web Portal is decent, but the design feels a bit outdated.",3,neutral,2026-05-15
+212,T. Sharma,Loyalty Program,"I love using the Loyalty Program, it saved me so much time.",5,positive,2026-05-15
+228,M. Ghosh,Web Portal,"Really happy with the Web Portal, support team was helpful too.",5,positive,2026-05-15
+47,K. Reddy,Customer Support,"Delivery was okay, but the package arrived a bit late.",3,neutral,2026-05-16
+74,M. Ghosh,Delivery Service,The delivery was late and the product arrived damaged.,2,negative,2026-05-16
+132,C. Menon,Subscription Plan,"I love using the Subscription Plan, it saved me so much time.",4,positive,2026-05-16
+34,B. Chatterjee,Checkout Flow,"The Checkout Flow exceeded my expectations, will recommend to friends.",5,positive,2026-05-17
+58,V. Nair,Mobile App,"The Mobile App keeps crashing, very frustrating experience.",1,negative,2026-05-17
+163,L. Verma,Payment Gateway,Impressed by how reliable the Payment Gateway has been over the past month.,4,positive,2026-05-17
+210,V. Nair,Delivery Service,"The Delivery Service has too many bugs, unusable most of the time.",1,negative,2026-05-17
+256,J. Kumar,Loyalty Program,"Very satisfied with the purchase, the service was fast and helpful.",5,positive,2026-05-17
+296,J. Kumar,Payment Gateway,The quality is very poor and the item is not worth the money.,1,negative,2026-05-17
+54,V. Nair,Subscription Plan,"The Subscription Plan is okay, could use a few more features.",3,neutral,2026-05-18
+86,F. Joshi,Customer Support,"I love using the Customer Support, it saved me so much time.",5,positive,2026-05-18
+17,V. Nair,Loyalty Program,The product functions normally but the interface feels average.,3,neutral,2026-05-19
+55,V. Nair,Web Portal,"The product is amazing, easy to use, and works perfectly.",5,positive,2026-05-20
+5,C. Menon,Subscription Plan,The battery life is excellent and the laptop performs really well.,4,positive,2026-05-21
+11,D. Pillai,Checkout Flow,"Very satisfied with the purchase, the service was fast and helpful.",5,positive,2026-05-21
+148,L. Verma,Delivery Service,"Very satisfied with the purchase, the service was fast and helpful.",4,positive,2026-05-21
+106,P. Singh,Subscription Plan,The battery life is excellent and the laptop performs really well.,5,positive,2026-05-22
+236,F. Joshi,Loyalty Program,"The Loyalty Program is fantastic, everything works smoothly and quickly.",5,positive,2026-05-22
+63,C. Menon,Payment Gateway,"Extremely poor performance from the Payment Gateway, needs urgent fixing.",1,negative,2026-05-23
+136,J. Kumar,Web Portal,"Great experience with the Web Portal, very intuitive and reliable.",4,positive,2026-05-23
+241,R. Das,Payment Gateway,"Excellent Payment Gateway! Fast, clean, and easy to use.",4,positive,2026-05-23
+221,V. Nair,Mobile App,There are so many bugs in my laptop and it is not working properly.,1,negative,2026-05-24
+261,N. Iyer,Payment Gateway,"Average experience with the Payment Gateway, some parts felt slow.",3,neutral,2026-05-24
+300,B. Chatterjee,Web Portal,"The Web Portal is fantastic, everything works smoothly and quickly.",5,positive,2026-05-24
+35,P. Singh,Checkout Flow,The battery life is excellent and the laptop performs really well.,5,positive,2026-05-25
+38,F. Joshi,Web Portal,"Extremely poor performance from the Web Portal, needs urgent fixing.",1,negative,2026-05-25
+118,J. Kumar,Subscription Plan,"The Subscription Plan keeps crashing, very frustrating experience.",2,negative,2026-05-25
+108,J. Kumar,Loyalty Program,"The laptop is broken, the screen flickers, and it keeps freezing.",2,negative,2026-05-26
+176,H. Bose,Checkout Flow,"Not bad, not great — the Checkout Flow just does the bare minimum.",3,neutral,2026-05-26
+56,V. Nair,Customer Support,"The product is amazing, easy to use, and works perfectly.",5,positive,2026-05-27
+200,T. Sharma,Customer Support,"The Customer Support is slow and unreliable, I want a refund.",2,negative,2026-05-27
+51,V. Nair,Web Portal,"I love using the Web Portal, it saved me so much time.",5,positive,2026-05-28
+92,J. Kumar,Loyalty Program,"The product is amazing, easy to use, and works perfectly.",4,positive,2026-05-28
+81,T. Sharma,Customer Support,"Very satisfied with the purchase, the service was fast and helpful.",5,positive,2026-05-29
+96,V. Nair,Loyalty Program,"Extremely poor performance from the Loyalty Program, needs urgent fixing.",1,negative,2026-05-29
+268,F. Joshi,Payment Gateway,"The new update to the Payment Gateway fixed all my issues, works perfectly now.",4,positive,2026-05-29
+10,P. Singh,Subscription Plan,"The Subscription Plan is okay, could use a few more features.",3,neutral,2026-05-30
+66,K. Reddy,Checkout Flow,"Really happy with the Checkout Flow, support team was helpful too.",5,positive,2026-05-30
+26,S. Mehta,Web Portal,"Really happy with the Web Portal, support team was helpful too.",5,positive,2026-05-31
+119,B. Chatterjee,Loyalty Program,Impressed by how reliable the Loyalty Program has been over the past month.,5,positive,2026-05-31
+161,H. Bose,Delivery Service,"The Delivery Service exceeded my expectations, will recommend to friends.",5,positive,2026-05-31
+274,M. Ghosh,Loyalty Program,"I'm disappointed with the Loyalty Program, it never works as advertised.",1,negative,2026-05-31
+1,K. Reddy,Mobile App,"Not bad, not great — the Mobile App just does the bare minimum.",3,neutral,2026-06-01
+13,N. Iyer,Payment Gateway,"It works, but I expected better quality for the price.",3,neutral,2026-06-01
+39,J. Kumar,Payment Gateway,"Excellent Payment Gateway! Fast, clean, and easy to use.",5,positive,2026-06-01
+123,K. Reddy,Checkout Flow,"Excellent Checkout Flow! Fast, clean, and easy to use.",5,positive,2026-06-02
+202,N. Iyer,Payment Gateway,"Great experience with the Payment Gateway, very intuitive and reliable.",5,positive,2026-06-02
+231,M. Ghosh,Customer Support,The battery life is excellent and the laptop performs really well.,4,positive,2026-06-02
+273,T. Sharma,Web Portal,"The Web Portal works fine, nothing special but does the job.",3,neutral,2026-06-02
+7,S. Mehta,Delivery Service,"Really happy with the Delivery Service, support team was helpful too.",5,positive,2026-06-03
+49,H. Bose,Customer Support,The delivery was late and the product arrived damaged.,1,negative,2026-06-03
+204,S. Mehta,Mobile App,"Average experience with the Mobile App, some parts felt slow.",3,neutral,2026-06-03
+22,L. Verma,Web Portal,"It works, but I expected better quality for the price.",3,neutral,2026-06-04
+140,R. Das,Customer Support,"Very satisfied with the purchase, the service was fast and helpful.",4,positive,2026-06-04
+184,N. Iyer,Delivery Service,The laptop runs smoothly and the display quality is excellent.,5,positive,2026-06-04
+287,P. Singh,Mobile App,"Very satisfied with the purchase, the service was fast and helpful.",5,positive,2026-06-04
+67,J. Kumar,Customer Support,"The new update to the Customer Support fixed all my issues, works perfectly now.",5,positive,2026-06-05
+101,C. Menon,Delivery Service,"Really happy with the Delivery Service, support team was helpful too.",5,positive,2026-06-05
+220,K. Reddy,Delivery Service,I was charged twice for the order and the payment failed unexpectedly.,1,negative,2026-06-05
+138,F. Joshi,Customer Support,"Excellent Customer Support! Fast, clean, and easy to use.",5,positive,2026-06-06
+174,N. Iyer,Mobile App,The battery life is excellent and the laptop performs really well.,5,positive,2026-06-06
+246,J. Kumar,Mobile App,"The Mobile App is fantastic, everything works smoothly and quickly.",5,positive,2026-06-06
+156,V. Nair,Payment Gateway,"I am unhappy with the service, the product is defective and support is slow.",2,negative,2026-06-07
+170,D. Pillai,Mobile App,The delivery was late and the product arrived damaged.,1,negative,2026-06-07
+259,P. Singh,Payment Gateway,"Great experience with the Payment Gateway, very intuitive and reliable.",4,positive,2026-06-07
+24,T. Sharma,Payment Gateway,"I'm disappointed with the Payment Gateway, it never works as advertised.",2,negative,2026-06-08
+159,B. Chatterjee,Subscription Plan,"The Subscription Plan keeps crashing, very frustrating experience.",1,negative,2026-06-08
+207,F. Joshi,Mobile App,"It works, but I expected better quality for the price.",3,neutral,2026-06-08
+244,V. Nair,Checkout Flow,Impressed by how reliable the Checkout Flow has been over the past month.,5,positive,2026-06-08
+121,D. Pillai,Loyalty Program,"The product is amazing, easy to use, and works perfectly.",4,positive,2026-06-09
+154,A. Rao,Customer Support,"The product is amazing, easy to use, and works perfectly.",4,positive,2026-06-09
+16,T. Sharma,Web Portal,"The Web Portal exceeded my expectations, will recommend to friends.",5,positive,2026-06-10
+214,V. Nair,Web Portal,"Really happy with the Web Portal, support team was helpful too.",5,positive,2026-06-10
+243,R. Das,Checkout Flow,The delivery was late and the product arrived damaged.,2,negative,2026-06-10
+299,V. Nair,Payment Gateway,I was charged twice for the order and the payment failed unexpectedly.,1,negative,2026-06-10
+291,P. Singh,Payment Gateway,The laptop runs smoothly and the display quality is excellent.,5,positive,2026-06-11
+160,H. Bose,Checkout Flow,"I am unhappy with the service, the product is defective and support is slow.",1,negative,2026-06-12
+166,H. Bose,Loyalty Program,"Very satisfied with the purchase, the service was fast and helpful.",4,positive,2026-06-12
+199,K. Reddy,Mobile App,"The Mobile App works fine, nothing special but does the job.",3,neutral,2026-06-12
+117,V. Nair,Customer Support,"Really happy with the Customer Support, support team was helpful too.",5,positive,2026-06-13
+185,P. Singh,Checkout Flow,The battery life is excellent and the laptop performs really well.,5,positive,2026-06-13
+252,S. Mehta,Subscription Plan,"The new update to the Subscription Plan fixed all my issues, works perfectly now.",5,positive,2026-06-13
+240,R. Das,Customer Support,"The laptop is acceptable, though the performance is average.",3,neutral,2026-06-14
+281,K. Reddy,Mobile App,"Really happy with the Mobile App, support team was helpful too.",4,positive,2026-06-14
+62,C. Menon,Customer Support,"Very satisfied with the purchase, the service was fast and helpful.",4,positive,2026-06-15
+95,M. Ghosh,Loyalty Program,"I am unhappy with the service, the product is defective and support is slow.",1,negative,2026-06-15
+203,K. Reddy,Mobile App,"Great experience with the Mobile App, very intuitive and reliable.",4,positive,2026-06-15
+126,N. Iyer,Customer Support,"The TV quality is poor, the image is not up to the mark and the box was damaged.",1,negative,2026-06-16
+182,R. Das,Checkout Flow,"The Checkout Flow is fantastic, everything works smoothly and quickly.",5,positive,2026-06-16
+257,A. Rao,Loyalty Program,"It works, but I expected better quality for the price.",3,neutral,2026-06-16
+52,M. Ghosh,Delivery Service,"I love using the Delivery Service, it saved me so much time.",4,positive,2026-06-17
+60,R. Das,Payment Gateway,The laptop runs smoothly and the display quality is excellent.,4,positive,2026-06-17
+193,C. Menon,Payment Gateway,"The new update to the Payment Gateway fixed all my issues, works perfectly now.",5,positive,2026-06-17
+216,R. Das,Web Portal,The package was not handled carefully and arrived damaged.,1,negative,2026-06-17
+298,F. Joshi,Checkout Flow,"The laptop is acceptable, though the performance is average.",3,neutral,2026-06-17
+42,A. Rao,Loyalty Program,"The Loyalty Program is fantastic, everything works smoothly and quickly.",4,positive,2026-06-18
+100,L. Verma,Payment Gateway,"Terrible support from the Payment Gateway, no one responded for days.",1,negative,2026-06-18
+133,F. Joshi,Customer Support,"It works, but I expected better quality for the price.",3,neutral,2026-06-18
+83,B. Chatterjee,Customer Support,"The product is amazing, easy to use, and works perfectly.",5,positive,2026-06-19
+247,F. Joshi,Web Portal,"It works, but I expected better quality for the price.",3,neutral,2026-06-19
+280,D. Pillai,Checkout Flow,"The Checkout Flow is fantastic, everything works smoothly and quickly.",5,positive,2026-06-19
+197,V. Nair,Delivery Service,"The Delivery Service works fine, nothing special but does the job.",3,neutral,2026-06-20
+238,M. Ghosh,Loyalty Program,The laptop runs smoothly and the display quality is excellent.,4,positive,2026-06-20
+269,D. Pillai,Mobile App,The package was not handled carefully and arrived damaged.,1,negative,2026-06-20
+37,L. Verma,Mobile App,"I'm disappointed with the Mobile App, it never works as advertised.",1,negative,2026-06-21
+75,M. Ghosh,Loyalty Program,"The laptop is acceptable, though the performance is average.",3,neutral,2026-06-21
+77,A. Rao,Payment Gateway,"Not bad, not great — the Payment Gateway just does the bare minimum.",3,neutral,2026-06-21
+149,S. Mehta,Checkout Flow,"Excellent Checkout Flow! Fast, clean, and easy to use.",5,positive,2026-06-21
+36,F. Joshi,Loyalty Program,"Really happy with the Loyalty Program, support team was helpful too.",5,positive,2026-06-22
+171,N. Iyer,Payment Gateway,"The Payment Gateway exceeded my expectations, will recommend to friends.",5,positive,2026-06-22
+217,D. Pillai,Delivery Service,"The Delivery Service is okay, could use a few more features.",3,neutral,2026-06-22
+48,L. Verma,Mobile App,"The Mobile App is okay, could use a few more features.",3,neutral,2026-06-23
+93,S. Mehta,Delivery Service,The laptop runs smoothly and the display quality is excellent.,5,positive,2026-06-23
+158,L. Verma,Payment Gateway,"I love using the Payment Gateway, it saved me so much time.",5,positive,2026-06-23
+183,N. Iyer,Subscription Plan,"Really happy with the Subscription Plan, support team was helpful too.",5,positive,2026-06-23
+18,H. Bose,Subscription Plan,"The product is amazing, easy to use, and works perfectly.",5,positive,2026-06-24
+20,J. Kumar,Payment Gateway,"Worst experience ever with the Payment Gateway, switching to a competitor.",2,negative,2026-06-24
+43,B. Chatterjee,Subscription Plan,The quality is very poor and the item is not worth the money.,1,negative,2026-06-24
+59,A. Rao,Checkout Flow,The laptop runs smoothly and the display quality is excellent.,5,positive,2026-06-24
+99,R. Das,Mobile App,"The Mobile App is slow and unreliable, I want a refund.",2,negative,2026-06-24
+290,J. Kumar,Subscription Plan,"The Subscription Plan is slow and unreliable, I want a refund.",2,negative,2026-06-24
+72,A. Rao,Customer Support,"Excellent Customer Support! Fast, clean, and easy to use.",4,positive,2026-06-25
+73,J. Kumar,Customer Support,"The laptop is acceptable, though the performance is average.",3,neutral,2026-06-25
+112,D. Pillai,Loyalty Program,Impressed by how reliable the Loyalty Program has been over the past month.,4,positive,2026-06-25
+113,N. Iyer,Checkout Flow,"Average experience with the Checkout Flow, some parts felt slow.",3,neutral,2026-06-25
+114,V. Nair,Subscription Plan,"I am unhappy with the service, the product is defective and support is slow.",1,negative,2026-06-25
+232,N. Iyer,Mobile App,Impressed by how reliable the Mobile App has been over the past month.,5,positive,2026-06-25
+129,L. Verma,Checkout Flow,The product functions normally but the interface feels average.,3,neutral,2026-06-26
+209,J. Kumar,Web Portal,Impressed by how reliable the Web Portal has been over the past month.,5,positive,2026-06-26
+227,C. Menon,Loyalty Program,Impressed by how reliable the Loyalty Program has been over the past month.,5,positive,2026-06-26
+288,H. Bose,Loyalty Program,"The laptop is broken, the screen flickers, and it keeps freezing.",2,negative,2026-06-26
+115,K. Reddy,Customer Support,"I love using the Customer Support, it saved me so much time.",5,positive,2026-06-27
+157,R. Das,Checkout Flow,Impressed by how reliable the Checkout Flow has been over the past month.,4,positive,2026-06-28
+164,A. Rao,Checkout Flow,"I'm disappointed with the Checkout Flow, it never works as advertised.",2,negative,2026-06-28
+213,H. Bose,Customer Support,"The new update to the Customer Support fixed all my issues, works perfectly now.",5,positive,2026-06-28
+224,L. Verma,Customer Support,"The new update to the Customer Support fixed all my issues, works perfectly now.",5,positive,2026-06-28
+234,J. Kumar,Mobile App,"The new update to the Mobile App fixed all my issues, works perfectly now.",4,positive,2026-06-28
+284,S. Mehta,Payment Gateway,"The Payment Gateway is okay, could use a few more features.",3,neutral,2026-06-28
+28,N. Iyer,Payment Gateway,"The Payment Gateway has too many bugs, unusable most of the time.",2,negative,2026-06-30
+65,K. Reddy,Web Portal,"The new update to the Web Portal fixed all my issues, works perfectly now.",4,positive,2026-06-30
+88,F. Joshi,Checkout Flow,"Worst experience ever with the Checkout Flow, switching to a competitor.",2,negative,2026-06-30
+147,D. Pillai,Checkout Flow,"The Checkout Flow is okay, could use a few more features.",3,neutral,2026-06-30
+162,H. Bose,Loyalty Program,"The Loyalty Program is fantastic, everything works smoothly and quickly.",5,positive,2026-06-30
+165,V. Nair,Loyalty Program,"The Loyalty Program has too many bugs, unusable most of the time.",1,negative,2026-06-30
+272,F. Joshi,Checkout Flow,"The Checkout Flow has too many bugs, unusable most of the time.",2,negative,2026-06-30
+45,N. Iyer,Mobile App,"Terrible support from the Mobile App, no one responded for days.",2,negative,2026-07-01
+208,H. Bose,Mobile App,"The Mobile App works fine, nothing special but does the job.",3,neutral,2026-07-01
+219,K. Reddy,Customer Support,"Great experience with the Customer Support, very intuitive and reliable.",5,positive,2026-07-01
+27,J. Kumar,Web Portal,"I love using the Web Portal, it saved me so much time.",5,positive,2026-07-02
+41,B. Chatterjee,Customer Support,"Worst experience ever with the Customer Support, switching to a competitor.",1,negative,2026-07-02
+258,T. Sharma,Payment Gateway,"The Payment Gateway exceeded my expectations, will recommend to friends.",5,positive,2026-07-02
+116,L. Verma,Loyalty Program,The delivery was late and the product arrived damaged.,1,negative,2026-07-03
+179,M. Ghosh,Mobile App,Delivery was on time and the product quality was great.,5,positive,2026-07-03
+192,P. Singh,Mobile App,"The Mobile App is fantastic, everything works smoothly and quickly.",5,positive,2026-07-03
+242,F. Joshi,Web Portal,"Worst experience ever with the Web Portal, switching to a competitor.",2,negative,2026-07-03
+289,D. Pillai,Payment Gateway,Impressed by how reliable the Payment Gateway has been over the past month.,5,positive,2026-07-03
+250,N. Iyer,Delivery Service,"The product is amazing, easy to use, and works perfectly.",4,positive,2026-07-04
+265,C. Menon,Subscription Plan,The battery life is excellent and the laptop performs really well.,5,positive,2026-07-04
+33,K. Reddy,Mobile App,"Really happy with the Mobile App, support team was helpful too.",4,positive,2026-07-05
+68,H. Bose,Subscription Plan,I was charged twice for the order and the payment failed unexpectedly.,2,negative,2026-07-05
+71,P. Singh,Delivery Service,"The new update to the Delivery Service fixed all my issues, works perfectly now.",5,positive,2026-07-05
+79,B. Chatterjee,Checkout Flow,"Very satisfied with the purchase, the service was fast and helpful.",4,positive,2026-07-05
+80,L. Verma,Payment Gateway,"The Payment Gateway is slow and unreliable, I want a refund.",1,negative,2026-07-05
+30,F. Joshi,Loyalty Program,I was charged twice for the order and the payment failed unexpectedly.,1,negative,2026-07-06
+85,F. Joshi,Customer Support,"Worst experience ever with the Customer Support, switching to a competitor.",2,negative,2026-07-06
+89,B. Chatterjee,Customer Support,"Very satisfied with the purchase, the service was fast and helpful.",5,positive,2026-07-06
+251,N. Iyer,Checkout Flow,Impressed by how reliable the Checkout Flow has been over the past month.,5,positive,2026-07-06
+53,A. Rao,Subscription Plan,Delivery was on time and the product quality was great.,5,positive,2026-07-07
+279,A. Rao,Delivery Service,"The Delivery Service is okay, could use a few more features.",3,neutral,2026-07-07
+98,A. Rao,Checkout Flow,"The Checkout Flow has too many bugs, unusable most of the time.",2,negative,2026-07-08
+110,C. Menon,Web Portal,"Terrible support from the Web Portal, no one responded for days.",1,negative,2026-07-08
+124,N. Iyer,Customer Support,"Really happy with the Customer Support, support team was helpful too.",4,positive,2026-07-08
+263,K. Reddy,Subscription Plan,The quality is very poor and the item is not worth the money.,1,negative,2026-07-08
+2,J. Kumar,Web Portal,"Very satisfied with the purchase, the service was fast and helpful.",5,positive,2026-07-09
+40,A. Rao,Web Portal,"The Web Portal is fantastic, everything works smoothly and quickly.",5,positive,2026-07-09
+102,S. Mehta,Web Portal,Impressed by how reliable the Web Portal has been over the past month.,4,positive,2026-07-09
+8,M. Ghosh,Web Portal,"The laptop is broken, the screen flickers, and it keeps freezing.",1,negative,2026-07-10
+21,A. Rao,Checkout Flow,The laptop runs smoothly and the display quality is excellent.,5,positive,2026-07-10
+122,L. Verma,Delivery Service,"The new update to the Delivery Service fixed all my issues, works perfectly now.",5,positive,2026-07-10
+14,K. Reddy,Subscription Plan,"Very satisfied with the purchase, the service was fast and helpful.",5,positive,2026-07-11
+105,T. Sharma,Checkout Flow,"Very satisfied with the purchase, the service was fast and helpful.",4,positive,2026-07-12
+134,S. Mehta,Subscription Plan,The package was not handled carefully and arrived damaged.,1,negative,2026-07-12
+225,J. Kumar,Subscription Plan,"The product is amazing, easy to use, and works perfectly.",5,positive,2026-07-12
+297,S. Mehta,Delivery Service,"Really happy with the Delivery Service, support team was helpful too.",5,positive,2026-07-12
+177,D. Pillai,Web Portal,"Extremely poor performance from the Web Portal, needs urgent fixing.",1,negative,2026-07-13
+248,T. Sharma,Mobile App,The product functions normally but the interface feels average.,3,neutral,2026-07-13
+44,S. Mehta,Subscription Plan,"The Subscription Plan exceeded my expectations, will recommend to friends.",4,positive,2026-07-14
+107,A. Rao,Payment Gateway,"The TV quality is poor, the image is not up to the mark and the box was damaged.",1,negative,2026-07-14
+146,C. Menon,Checkout Flow,"Excellent Checkout Flow! Fast, clean, and easy to use.",4,positive,2026-07-14
+254,R. Das,Payment Gateway,"Really happy with the Payment Gateway, support team was helpful too.",4,positive,2026-07-14
+125,M. Ghosh,Checkout Flow,"Excellent Checkout Flow! Fast, clean, and easy to use.",5,positive,2026-07-15
+139,T. Sharma,Customer Support,"Excellent Customer Support! Fast, clean, and easy to use.",5,positive,2026-07-15
+46,J. Kumar,Web Portal,"Great experience with the Web Portal, very intuitive and reliable.",4,positive,2026-07-16
+70,C. Menon,Subscription Plan,"The Subscription Plan is fantastic, everything works smoothly and quickly.",4,positive,2026-07-16
+137,B. Chatterjee,Loyalty Program,Impressed by how reliable the Loyalty Program has been over the past month.,5,positive,2026-07-16
+141,M. Ghosh,Payment Gateway,The battery life is excellent and the laptop performs really well.,5,positive,2026-07-16
+143,S. Mehta,Checkout Flow,The quality is very poor and the item is not worth the money.,1,negative,2026-07-16
+201,A. Rao,Customer Support,The delivery was late and the product arrived damaged.,1,negative,2026-07-16
+211,M. Ghosh,Delivery Service,"Delivery was okay, but the package arrived a bit late.",3,neutral,2026-07-16
+218,M. Ghosh,Loyalty Program,"Terrible support from the Loyalty Program, no one responded for days.",1,negative,2026-07-16
+255,J. Kumar,Subscription Plan,"The laptop is broken, the screen flickers, and it keeps freezing.",1,negative,2026-07-16
+78,L. Verma,Customer Support,"The new update to the Customer Support fixed all my issues, works perfectly now.",5,positive,2026-07-17
+292,C. Menon,Subscription Plan,"Excellent Subscription Plan! Fast, clean, and easy to use.",5,positive,2026-07-17
+82,J. Kumar,Mobile App,"The Mobile App exceeded my expectations, will recommend to friends.",5,positive,2026-07-18
+87,C. Menon,Delivery Service,The product functions normally but the interface feels average.,3,neutral,2026-07-18
+277,D. Pillai,Subscription Plan,The package was not handled carefully and arrived damaged.,1,negative,2026-07-18
+104,R. Das,Customer Support,The Customer Support charged me twice and support was unhelpful.,1,negative,2026-07-19
+172,K. Reddy,Web Portal,Delivery was on time and the product quality was great.,5,positive,2026-07-19
+260,R. Das,Mobile App,"The laptop is acceptable, though the performance is average.",3,neutral,2026-07-19
+275,F. Joshi,Customer Support,"The new update to the Customer Support fixed all my issues, works perfectly now.",5,positive,2026-07-19
+32,S. Mehta,Mobile App,"The Mobile App is okay, could use a few more features.",3,neutral,2026-07-20
+135,T. Sharma,Web Portal,"The Web Portal is decent, but the design feels a bit outdated.",3,neutral,2026-07-20
+181,S. Mehta,Payment Gateway,"The Payment Gateway is okay, could use a few more features.",3,neutral,2026-07-20
+173,V. Nair,Payment Gateway,"The Payment Gateway exceeded my expectations, will recommend to friends.",5,positive,2026-07-21
+175,C. Menon,Delivery Service,Delivery was on time and the product quality was great.,5,positive,2026-07-21
+180,T. Sharma,Customer Support,I was charged twice for the order and the payment failed unexpectedly.,1,negative,2026-07-21
+223,A. Rao,Loyalty Program,"The Loyalty Program is slow and unreliable, I want a refund.",1,negative,2026-07-21
+235,C. Menon,Loyalty Program,"The laptop is broken, the screen flickers, and it keeps freezing.",2,negative,2026-07-21
+294,S. Mehta,Loyalty Program,"Not bad, not great — the Loyalty Program just does the bare minimum.",3,neutral,2026-07-21
+12,J. Kumar,Subscription Plan,"The product is amazing, easy to use, and works perfectly.",5,positive,2026-07-22
+111,L. Verma,Web Portal,"It works, but I expected better quality for the price.",3,neutral,2026-07-22
+190,J. Kumar,Delivery Service,Delivery was on time and the product quality was great.,4,positive,2026-07-22
+4,C. Menon,Mobile App,The laptop runs smoothly and the display quality is excellent.,4,positive,2026-07-23
+191,C. Menon,Checkout Flow,"Not bad, not great — the Checkout Flow just does the bare minimum.",3,neutral,2026-07-23
+194,P. Singh,Payment Gateway,"Delivery was okay, but the package arrived a bit late.",3,neutral,2026-07-23
+178,H. Bose,Subscription Plan,"The Subscription Plan works fine, nothing special but does the job.",3,neutral,2026-07-24
+198,T. Sharma,Web Portal,Impressed by how reliable the Web Portal has been over the past month.,4,positive,2026-07-24
+64,K. Reddy,Delivery Service,The battery life is excellent and the laptop performs really well.,5,positive,2026-07-25
+76,H. Bose,Customer Support,"Delivery was okay, but the package arrived a bit late.",3,neutral,2026-07-25
+97,H. Bose,Mobile App,"The new update to the Mobile App fixed all my issues, works perfectly now.",5,positive,2026-07-25
+229,M. Ghosh,Checkout Flow,"It works, but I expected better quality for the price.",3,neutral,2026-07-25
+233,D. Pillai,Customer Support,The laptop runs smoothly and the display quality is excellent.,5,positive,2026-07-25
+278,J. Kumar,Loyalty Program,"Great experience with the Loyalty Program, very intuitive and reliable.",5,positive,2026-07-25
+186,H. Bose,Web Portal,"Great experience with the Web Portal, very intuitive and reliable.",4,positive,2026-07-26
+188,V. Nair,Checkout Flow,"The laptop is acceptable, though the performance is average.",3,neutral,2026-07-26
+189,K. Reddy,Delivery Service,"The Delivery Service is okay, could use a few more features.",3,neutral,2026-07-26
+262,K. Reddy,Mobile App,The package was not handled carefully and arrived damaged.,1,negative,2026-07-26
+264,F. Joshi,Checkout Flow,"The Checkout Flow exceeded my expectations, will recommend to friends.",5,positive,2026-07-26
+295,N. Iyer,Loyalty Program,"Really happy with the Loyalty Program, support team was helpful too.",5,positive,2026-07-26
+131,S. Mehta,Web Portal,Delivery was on time and the product quality was great.,5,positive,2026-07-27
+29,T. Sharma,Loyalty Program,"The Loyalty Program exceeded my expectations, will recommend to friends.",5,positive,2026-07-28
+169,M. Ghosh,Web Portal,The quality is very poor and the item is not worth the money.,1,negative,2026-07-28
+195,D. Pillai,Loyalty Program,There are so many bugs in my laptop and it is not working properly.,1,negative,2026-07-28
+94,A. Rao,Loyalty Program,"The new update to the Loyalty Program fixed all my issues, works perfectly now.",5,positive,2026-07-29
+109,M. Ghosh,Customer Support,"The Customer Support is okay, could use a few more features.",3,neutral,2026-07-29
+142,H. Bose,Checkout Flow,"The product is amazing, easy to use, and works perfectly.",5,positive,2026-07-29
+153,B. Chatterjee,Payment Gateway,"Excellent Payment Gateway! Fast, clean, and easy to use.",5,positive,2026-07-29
+283,B. Chatterjee,Payment Gateway,The product functions normally but the interface feels average.,3,neutral,2026-07-29

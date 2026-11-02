@@ -1,0 +1,56 @@
+{
+  "test_size": 60,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "traditional_model": {
+    "name": "Keyword/Lexicon Rule Engine",
+    "accuracy": 0.8833,
+    "precision_weighted": 0.9104,
+    "recall_weighted": 0.8833,
+    "f1_weighted": 0.8899,
+    "confusion_matrix": [
+      [
+        13,
+        3,
+        0
+      ],
+      [
+        1,
+        11,
+        0
+      ],
+      [
+        0,
+        3,
+        29
+      ]
+    ]
+  },
+  "proposed_model": {
+    "name": "TF-IDF + Logistic Regression",
+    "accuracy": 1.0,
+    "precision_weighted": 1.0,
+    "recall_weighted": 1.0,
+    "f1_weighted": 1.0,
+    "confusion_matrix": [
+      [
+        16,
+        0,
+        0
+      ],
+      [
+        0,
+        12,
+        0
+      ],
+      [
+        0,
+        0,
+        32
+      ]
+    ]
+  }
+}

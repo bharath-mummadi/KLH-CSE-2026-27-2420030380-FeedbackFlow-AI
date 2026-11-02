@@ -1,0 +1,57 @@
+version: "3.9"
+
+services:
+  sentiment_service:
+    build:
+      context: .
+      dockerfile: src/sentiment_service/Dockerfile
+    ports:
+      - "5002:5002"
+
+  notification_service:
+    build:
+      context: .
+      dockerfile: src/notification_service/Dockerfile
+    ports:
+      - "5004:5004"
+
+  feedback_service:
+    build:
+      context: .
+      dockerfile: src/feedback_service/Dockerfile
+    ports:
+      - "5001:5001"
+    environment:
+      - SENTIMENT_SERVICE_URL=http://sentiment_service:5002
+      - NOTIFICATION_SERVICE_URL=http://notification_service:5004
+    depends_on:
+      - sentiment_service
+      - notification_service
+
+  analytics_service:
+    build:
+      context: .
+      dockerfile: src/analytics_service/Dockerfile
+    ports:
+      - "5003:5003"
+    environment:
+      - FEEDBACK_SERVICE_URL=http://feedback_service:5001
+    depends_on:
+      - feedback_service
+
+  api_gateway:
+    build:
+      context: .
+      dockerfile: src/api_gateway/Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - FEEDBACK_SERVICE_URL=http://feedback_service:5001
+      - SENTIMENT_SERVICE_URL=http://sentiment_service:5002
+      - ANALYTICS_SERVICE_URL=http://analytics_service:5003
+      - NOTIFICATION_SERVICE_URL=http://notification_service:5004
+    depends_on:
+      - feedback_service
+      - sentiment_service
+      - analytics_service
+      - notification_service
